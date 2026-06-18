@@ -12,3 +12,5 @@
   <img src="https://github.com/user-attachments/assets/36109a44-977e-4171-b01d-3e1a391d6f73" width="45%" />
 </p>
 
+### next revision
+GND on qwiic not connected properly... floating
